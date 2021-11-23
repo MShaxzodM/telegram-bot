@@ -1,0 +1,22 @@
+{
+  "name": "node-tg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon indx.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongodb": "^4.1.3",
+    "mongoose": "^6.0.12",
+    "path": "^0.12.7",
+    "telegraf": "^4.4.2",
+    "telegraf-i18n": "^6.6.0",
+    "yaml": "^1.10.2"
+  }
+}
